@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="&amp;huart2"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="&amp;huart7"/>
+			<item value="read_ID"/>
+			<item value="list"/>
+			<item value="printf"/>
+			<item value="vargs"/>
+			<item value="varrgs"/>
+			<item value="myprintf"/>
+			<item value="huart7"/>
+			<item value="huart1"/>
+			<item value="&amp;hspi3"/>
+			<item value="GPIOD, GPIO_PIN_3"/>
+			<item value="x70"/>
+			<item value="x15"/>
+			<item value="status"/>
+			<item value="NOR_Init_wo_ID"/>
+		</list>
+		<list key="replacehistory">
+			<item value="&amp;huart2"/>
+			<item value="huart7"/>
+			<item value="GPIOB, GPIO_PIN_12"/>
+			<item value="hspi3"/>
+			<item value="&amp;hspi2"/>
+			<item value="hspi2"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1593"/>
+		<item key="DIALOG_Y_ORIGIN" value="124"/>
+		<item key="DIALOG_WIDTH" value="336"/>
+		<item key="DIALOG_HEIGHT" value="454"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

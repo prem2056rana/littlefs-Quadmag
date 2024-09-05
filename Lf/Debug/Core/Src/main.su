@@ -1,0 +1,9 @@
+main.c:69:5:_flash_read	40	static
+main.c:90:5:_flash_prog	40	static
+main.c:113:5:_flash_erase	40	static
+main.c:132:5:_flash_sync	16	static
+main.c:136:6:__init_storage	16	static
+main.c:167:5:main	96	static
+main.c:227:6:SystemClock_Config	72	static
+main.c:267:13:MX_GPIO_Init	16	static
+main.c:288:6:Error_Handler	4	static,ignoring_inline_asm

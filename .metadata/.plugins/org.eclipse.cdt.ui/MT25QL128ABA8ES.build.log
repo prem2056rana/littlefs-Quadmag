@@ -1,0 +1,10 @@
+12:57:33 **** Incremental Build of configuration Debug for project MT25QL128ABA8ES ****
+make -j8 all 
+arm-none-eabi-size   MT25QL128ABA8ES.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9704	     52	   1804	  11560	   2d28	MT25QL128ABA8ES.elf
+Finished building: default.size.stdout
+ 
+
+12:57:34 Build Finished. 0 errors, 0 warnings. (took 253ms)
+

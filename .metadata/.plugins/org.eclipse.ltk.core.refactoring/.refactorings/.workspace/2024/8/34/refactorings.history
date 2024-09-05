@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 6 resources" deleteContents="false" description="Delete 6 resources" element1="/Littlefs27ai/Core/Inc/main.h" element2="/RM3100QUAD/Core/Src/lfs_util.h" element3="/RM3100QUAD/Core/Src/lfs.h" element4="/RM3100QUAD/Core/Src/nor_defines.h" element5="/RM3100QUAD/Core/Src/nor_ids.h" element6="/RM3100QUAD/Core/Src/nor.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="6" stamp="1724133137212"/>
+</session>

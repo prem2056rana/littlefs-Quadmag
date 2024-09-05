@@ -1,0 +1,10 @@
+RM3100MAG.c:78:6:SET_COUNT	8	static
+RM3100MAG.c:95:6:Continuous_Mode	8	static
+RM3100MAG.c:106:6:TMRC_Mode	8	static
+RM3100MAG.c:120:6:Mea_Result	8	static
+RM3100MAG.c:137:6:UART_TransmitString	16	static
+RM3100MAG.c:145:6:set_time	16	static
+RM3100MAG.c:172:6:get_time	16	static
+RM3100MAG.c:183:6:Comb_measurement	24	static
+RM3100MAG.c:227:6:myDebug	112	static
+RM3100MAG.c:236:5:bufferSize	24	static

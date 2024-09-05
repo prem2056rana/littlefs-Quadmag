@@ -1,0 +1,11 @@
+12:28:43 **** Incremental Build of configuration Debug for project QUADMAGDATA ****
+make -j8 all 
+arm-none-eabi-gcc -o "QUADMAGDATA.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\Users\ASUS\STM32CubeIDE\workspace_1.7.0\QUADMAGDATA\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="QUADMAGDATA.map" -Wl,--gc-sections -static -u _printf_float --specs=nano.specs -mfloat-abi=soft -mthumb -u _printf_float -u _scanf_float -Wl,--start-group -lc -lm -Wl,--end-group
+c:\st\stm32cubeide_1.7.0\stm32cubeide\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346\tools\arm-none-eabi\bin\ld.exe: QUADMAGDATA.elf section `.text' will not fit in region `FLASH'
+c:\st\stm32cubeide_1.7.0\stm32cubeide\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346\tools\arm-none-eabi\bin\ld.exe: region `FLASH' overflowed by 12860 bytes
+collect2.exe: error: ld returned 1 exit status
+make: *** [makefile:65: QUADMAGDATA.elf] Error 1
+"make -j8 all" terminated with exit code 2. Build might be incomplete.
+
+12:28:44 Build Failed. 3 errors, 0 warnings. (took 575ms)
+

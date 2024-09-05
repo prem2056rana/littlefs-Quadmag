@@ -1,0 +1,10 @@
+17:22:26 **** Incremental Build of configuration Debug for project Flash ****
+make -j8 all 
+arm-none-eabi-size   Flash.elf 
+   text	   data	    bss	    dec	    hex	filename
+  48800	    120	   1968	  50888	   c6c8	Flash.elf
+Finished building: default.size.stdout
+ 
+
+17:22:26 Build Finished. 0 errors, 0 warnings. (took 264ms)
+

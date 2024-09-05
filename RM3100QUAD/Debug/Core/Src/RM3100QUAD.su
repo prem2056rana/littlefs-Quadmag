@@ -1,0 +1,10 @@
+RM3100QUAD.c:92:6:SET_COUNT	16	static
+RM3100QUAD.c:109:6:Continuous_Mode	16	static
+RM3100QUAD.c:119:6:TMRC_Mode	16	static
+RM3100QUAD.c:131:6:Mea_Result	16	static
+RM3100QUAD.c:148:6:UART_TransmitString	16	static
+RM3100QUAD.c:156:6:set_time	16	static
+RM3100QUAD.c:183:6:get_time	16	static
+RM3100QUAD.c:195:6:Comb_measurement	24	static
+RM3100QUAD.c:267:6:myDebug	112	static
+RM3100QUAD.c:276:5:bufferSize	24	static

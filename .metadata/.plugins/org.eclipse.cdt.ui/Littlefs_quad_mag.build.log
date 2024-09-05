@@ -1,0 +1,10 @@
+10:48:24 **** Build of configuration Debug for project Littlefs_quad_mag ****
+make -j8 all 
+arm-none-eabi-size   Littlefs_quad_mag.elf 
+   text	   data	    bss	    dec	    hex	filename
+  77800	    488	   6800	  85088	  14c60	Littlefs_quad_mag.elf
+Finished building: default.size.stdout
+ 
+
+10:48:26 Build Finished. 0 errors, 0 warnings. (took 1s.688ms)
+

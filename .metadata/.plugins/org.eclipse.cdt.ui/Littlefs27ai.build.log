@@ -1,0 +1,10 @@
+20:15:29 **** Incremental Build of configuration Debug for project Littlefs27ai ****
+make -j8 all 
+arm-none-eabi-size   Littlefs27ai.elf 
+   text	   data	    bss	    dec	    hex	filename
+  53076	    220	   2344	  55640	   d958	Littlefs27ai.elf
+Finished building: default.size.stdout
+ 
+
+20:15:30 Build Finished. 0 errors, 0 warnings. (took 1s.198ms)
+
